@@ -11,3 +11,6 @@ flask = "*"
 
 [requires]
 python_version = "3.5"
+
+[scripts]
+serve = "flask run"
